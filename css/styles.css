@@ -1,0 +1,14 @@
+.logo-image {
+	width: 250px;
+	max-height: 250px;
+}
+
+.row.divider {
+	width: 150px;
+	height: 1px;
+	border-top: solid black 1px;
+	text-align: center;
+	margin: 0 auto;
+	padding: 10px 0;
+}
+
